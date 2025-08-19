@@ -1,6 +1,6 @@
 # Product Preview Card Component
 
-![Предпросмотр компонента карточки товара](./design/desktop-preview.jpg)
+![Предпросмотр компонента карточки товара](https://product-preview-card-component-zeta-brown.vercel.app/)
 
 ## Описание проекта
 
