@@ -144,6 +144,10 @@
 }
 
 @media screen and (max-width: 625px) {
+  .main {
+    padding: 20px;
+  }
+  
   .card {
     flex-direction: column;
     margin: 13px;
